@@ -8,7 +8,7 @@
         </style>
     </head>
     <body>
-        <?php require("includes/preload.php");?>
+        <?php require("preload.php");?>
         <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
         <div class="compat">
             <div class="pure-g">
